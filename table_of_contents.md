@@ -14,12 +14,12 @@ Introduction
 
 ### Part II: Language Fundamentals ###
 
-Chapter 3: Do Things: A Clojure Crash Course
-Chapter 4: Core Functions in Depth
-Chapter 5: Functional Programming
-Chapter 6: Organizing Your Project: A Librarian’s Tale
-Chapter 7: Clojure Alchemy: Reading, Evaluation, and Macros
-Chapter 8: Writing Macros
+###### [Chapter 3: Do Things: A Clojure Crash Course](Chapter_3_Do_Things_A_Clojure_Crash_Course.md) ######
+###### [Chapter 4: Core Functions in Depth](Chapter_4_Core_Functions_In_Depth.md) ######
+###### [Chapter 5: Functional Programming](Chapter_5_Functional_Programming.md) ######
+###### [Chapter 6: Organizing Your Project: A Librarian’s Tale](Chapter_6_Orgranizing_Your_Project_A_Librarian_Tale.md) ######
+###### [Chapter 7: Clojure Alchemy: Reading, Evaluation, and Macros](Chapter_7_Clojure_Alchemy_Reading_Evaluation_And_Macros.md) ######
+###### [Chapter 8: Writing Macros](Chapter_8_Writing_Macros.md) ######
 
 ### Part III: Advanced Topics ###
 
@@ -38,3 +38,4 @@ Farewell!
 ### Part 0: Errata ###
 
 Errata list and submission instructions
+
